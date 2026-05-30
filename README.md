@@ -2,6 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Olá!+💪;+Sou+João+Henrique+Fechine+Silva!;" />
 </h1>
 <h3>Desenvolvedor Java-End </h3>
+
 - 🌱 Eu estou estudando Programação Fullstack Java...
 - 📫 email para contato:  henriquefechine12@gmail.com ...
 
