@@ -25,4 +25,4 @@
 
 ##
 
-![Snake animation](https://github.com/seuusuario/seuusuario/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-snake.svg)
