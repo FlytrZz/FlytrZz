@@ -25,4 +25,3 @@
 
 ##
 
-![snake gif](https://github.com/FlytrZz/FlytrZz/blob/output/github-snake.svg)
