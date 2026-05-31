@@ -25,4 +25,4 @@
 
 ##
 
-![snake gif](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-snake.svg)
+![snake gif](https://github.com/FlytrZz/FlytrZz/blob/output/github-snake.svg)
