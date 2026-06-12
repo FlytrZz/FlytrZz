@@ -18,7 +18,7 @@
 
 <div>
   <a href="https://www.youtube.com/@FlytrZz" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/doughboy.mf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?=forthebadge&logo=instagram&logoColor=white"target="_blank"></a> 
+  <a href="https://instagram.com/doughboy_mf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?=forthebadge&logo=instagram&logoColor=white"target="_blank"></a> 
   <a href = "mailto:henriquefechine12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-henrique-570523365" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
