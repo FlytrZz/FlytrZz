@@ -24,4 +24,4 @@
 </div>
 
 ##
-
+![Snake animation](https://github.com/FlytrZz/FlytrZz/blob/output/github-contribution-grid-snake.svg)
