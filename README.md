@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Olá!+💪;+Me+Chamo+João+Henrique!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Olá!+💪;+Me+Chamo+João+Henrique!;Prazer+em+te+Conhecer!+🤝;" />
 </h1>
 <h3>Desenvolvedor Java </h3>
 
-- 🌱 Eu estou estudando Programação Fullstack Java...
+- 🌱 Eu estou estudando Programação Java com maior foco no Backend...
 - 📫 email para contato: henriquefechine12@gmail.com ...
 
 <div style="display: inline_block"><br>
